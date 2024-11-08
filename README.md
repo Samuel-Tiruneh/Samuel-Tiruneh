@@ -16,7 +16,7 @@
 
 - 🔵 I’m looking for help with **Backend projects**
 
-- 🔵Some of my projects are available at [https://myportfolio-v02.netlify.app](https://myportfolio-v02.netlify.app)
+- 🔵Some of my projects are available at https://portfolioupdated2.netlify.app/
 
 - 📧 Get in touch with me **samuelplusweb@gmail.com**
 
